@@ -1,2 +1,3 @@
 # tanstack-query
-tanstack-query + vue + vite
+
+tanstack-query + vue + vite + ts
